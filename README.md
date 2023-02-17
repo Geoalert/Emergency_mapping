@@ -21,9 +21,10 @@ Mapflow QGIS plugin can be used to run building detection and mapping on basemap
 
 ### Important updates ###
 
-| Category | Description - what? how? | URL | Application |
-|-------------|------------|----------|----------|
-| Open data | Connect all Maxar's images to QGIS XYZ layers | [download](QGIS/XYZ_links_Opendata_Maxar_Turkey.xml) | QGIS / Mapflow-QGIS |
+| Region | Description - what? how? | URL | Application | Updated |
+|-------------|------------|----------|----------|-------------|
+| Turkey | Connect all Maxar's images to QGIS XYZ layers | [download](Turkey/XYZ_links_Opendata_Maxar_Turkey.xml) | QGIS / Mapflow-QGIS | |
+| Turkey | QGIS collaborative project | [download](Turkey/project-qgis.xml) | QGIS / Mapflow-QGIS | [x] 2022-02-17 |
 
 
 
