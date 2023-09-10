@@ -1,8 +1,29 @@
 # Emergency mapping
 
-Here we describe and research the workflows of application of AI tools to operational Earth observation imagery to conduct the early response to disaster and assist in emergency mapping.
+Here we describe and research the applications of AI tools to Earth observation imagery to empower the early response to disaster and assist in emergency mapping. Links to the open datasets are collected and updated here.
+
+## Morocco earthquake ##
+
+![**USGS map - Morocco earthquake**](images/morocco_eq.jpeg)
+
+### Important updates ###
+
+| Region | Description - what? how? | URL | Application / Format| Updated |
+|-------------|------------|----------|----------|-------------|
+| Marrokesh | Building footprints of Marrakesh area extracted from the ArcGIS Worldview imagery basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/6o2ZssFy7CrrAS5) | GeoJSON | [x] 2023-09-10 |
+
 
 ## Turkey and Syria earthquakes ##
+
+### Important updates ###
+
+| Region | Description - what? how? | URL | Application | Updated |
+|-------------|------------|----------|----------|-------------|
+| Turkey | Connect all Maxar's images to QGIS XYZ layers | [download](Turkey/XYZ_links_Opendata_Maxar_Turkey.xml) | QGIS / Mapflow-QGIS | |
+| Turkey | QGIS collaborative project | [download](Turkey/project-qgis.xml) | QGIS / Mapflow-QGIS | [x] 2022-02-17 |
+
+
+## Imagery ##
 
 ### Maxar Open data ###
 
@@ -17,15 +38,6 @@ At Geoalert we published all the data using our tile server to make it more inte
 The Openaerialmap community members are consolidating all open imagery on a single map. You can find images from SkySat (by Planet) and WorldView (by Maxar).
 Each image can be added to QGIS using TMS link.
 Mapflow QGIS plugin can be used to run building detection and mapping on basemaps and new imagery. See more detailed description in the Mapflow [user guides](https://docs.mapflow.ai/userguides/howto.html#use-openaerialmap-as-an-imagery-publication-tool).
-
-
-### Important updates ###
-
-| Region | Description - what? how? | URL | Application | Updated |
-|-------------|------------|----------|----------|-------------|
-| Turkey | Connect all Maxar's images to QGIS XYZ layers | [download](Turkey/XYZ_links_Opendata_Maxar_Turkey.xml) | QGIS / Mapflow-QGIS | |
-| Turkey | QGIS collaborative project | [download](Turkey/project-qgis.xml) | QGIS / Mapflow-QGIS | [x] 2022-02-17 |
-
 
 
 ## Mapping contribution
