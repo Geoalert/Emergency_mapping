@@ -2,6 +2,18 @@
 
 Here we describe and research the applications of AI tools to Earth observation imagery to empower the early response to disaster and assist in emergency mapping. Links to the open datasets are collected and updated here.
 
+
+## Libya flooings
+
+![**USGS map - Libya flooding**](images/libya_flood.png)
+
+### Important updates ###
+
+| Region | Description - what? how? | URL | Application / Format| Updated |
+|-------------|------------|----------|----------|-------------|
+| Derna | Building footprints of Derna area extracted from Mapbox Satellite basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/pyHW6qlI38h8cX4) | GeoJSON | [x] 2023-09-14 |
+
+
 ## Morocco earthquake ##
 
 ![**USGS map - Morocco earthquake**](images/morocco_eq.jpeg)
