@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles name='Derna Post-event Sep 13' zmin='10' url='https://whitemaps-internal.mapflow.ai/api/v0/cogs/tiles/{z}/{x}/{y}.png?uri=s3://white-maps-rasters/7b2ac027-3440-43c2-b0b2-e3bdd9ab5b24' zmax='20'/>
+</qgsXYZTilesConnections>

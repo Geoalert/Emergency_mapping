@@ -11,8 +11,8 @@ Here we research the applications of AI to Earth observation imagery to empower 
 
 | Region | Description - what? how? | URL | Application / Format| Updated |
 |-------------|------------|----------|----------|-------------|
-| Derna | Building footprints of Derna area extracted from Mapbox Satellite basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/pyHW6qlI38h8cX4) | GeoJSON | [x] 2023-09-14 |
-| Derna | Post-event image by Maxar (Sep 13) | 👉 [XYZ URL](https://whitemaps-internal.mapflow.ai/api/v0/cogs/tiles/{z}/{x}/{y}.png?uri=s3://white-maps-rasters/7b2ac027-3440-43c2-b0b2-e3bdd9ab5b24) | GIS / Tiff | [x] 2023-09-13 |
+| Derna | Building footprints of Derna area extracted from Mapbox Satellite basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/pyHW6qlI38h8cX4) | GeoJSON | 2023-09-14 |
+| Derna | Post-event image by Maxar (Sep 13) | 👉 [XYZ URL](Libya/XYZ_links_Opendata_Maxar_Libya.xml) | GIS / Tiff | 2023-09-13 |
 
 
 
@@ -24,7 +24,7 @@ Here we research the applications of AI to Earth observation imagery to empower 
 
 | Region | Description - what? how? | URL | Application / Format| Updated |
 |-------------|------------|----------|----------|-------------|
-| Marrokesh | Building footprints of Marrakesh area extracted from the ArcGIS Worldview imagery basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/6o2ZssFy7CrrAS5) | GeoJSON | [x] 2023-09-10 |
+| Marrokesh | Building footprints of Marrakesh area extracted from the ArcGIS Worldview imagery basemaps | 👉 [download](https://filebrowser.mapflow.ai/s/6o2ZssFy7CrrAS5) | GeoJSON | 2023-09-10 |
 
 
 ## Turkey and Syria earthquakes ##
@@ -34,7 +34,7 @@ Here we research the applications of AI to Earth observation imagery to empower 
 | Region | Description - what? how? | URL | Application | Updated |
 |-------------|------------|----------|----------|-------------|
 | Turkey | Connect all Maxar's images to QGIS XYZ layers | [download](Turkey/XYZ_links_Opendata_Maxar_Turkey.xml) | QGIS / Mapflow-QGIS | |
-| Turkey | QGIS collaborative project | [download](Turkey/project-qgis.xml) | QGIS / Mapflow-QGIS | [x] 2022-02-17 |
+| Turkey | QGIS collaborative project | [download](Turkey/project-qgis.xml) | QGIS / Mapflow-QGIS | 2022-02-17 |
 
 
 ## Imagery ##
