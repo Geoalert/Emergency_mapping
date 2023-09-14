@@ -1,9 +1,9 @@
 # Emergency mapping
 
-Here we describe and research the applications of AI tools to Earth observation imagery to empower the early response to disaster and assist in emergency mapping. Links to the open datasets are collected and updated here.
+Here we research the applications of AI to Earth observation imagery to empower the early response to disaster and assist in Emergency mapping. Links to the open data are collected and updated here.
 
 
-## Libya flooings
+## Libya floodings
 
 ![**USGS map - Libya flooding**](images/libya_flood.png)
 
